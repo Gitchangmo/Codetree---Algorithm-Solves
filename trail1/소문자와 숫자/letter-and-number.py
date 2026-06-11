@@ -5,5 +5,3 @@ for w in S:
         print(w, end='')
     elif w.isalpha():
         print(w.lower(), end='')
-    else:
-        continue
